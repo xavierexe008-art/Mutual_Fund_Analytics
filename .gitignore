@@ -1,0 +1,14 @@
+# Virtual Environment
+.venv/
+
+# PyCharm
+.idea/
+
+# Database
+*.db
+
+# Python cache
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
